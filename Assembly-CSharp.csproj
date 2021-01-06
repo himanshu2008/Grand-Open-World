@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\Characters\CamControl.cs" />
     <Compile Include="Assets\Scripts\Characters\CharControl.cs" />
     <Compile Include="Assets\Scripts\IntroScene\A01_CamSwitch.cs" />
+    <Compile Include="Assets\Scripts\IntroScene\A02_MoveChar.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\Actions.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterPanel.cs" />
     <Compile Include="Assets\Yurowm\Demo\Scripts\CharacterViewer.cs" />
